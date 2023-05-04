@@ -28,4 +28,4 @@ $cd Bf-Fb
 
 $git pull
 
-$python Run.py
+$python Bf-fb.py
